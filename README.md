@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ellerenas-ias
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning Typescript, Scrum methodology, Storybook, React, Sass and others
+- 💞️ I’m looking to collaborate on react-team
+- 📫 How to reach me: on Slack
